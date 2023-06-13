@@ -104,7 +104,6 @@ def preprocess_input(user_input):
 
     return user_data
 
-
 def get_top_labels(model, preprocessed_input, tags, top_k=5):
     predictions = model.predict(preprocessed_input)
     top_indices = np.argsort(predictions[0])[::-1][:top_k]
