@@ -1,5 +1,12 @@
 # Machine Learning
-Machine Learning for CHeAT-C23-PS312
+Machine Learning Service for CHeAT-C23-PS312
+
+##Contributor
+Contributor to this repostory:
+
+- [Firly Nuraulia Rahmah](https://github.com/firlynuraulia)
+- [Tedja Diah Rani Octavia](https://github.com/ranioc)
+- [Amalia Hasanah](https://github.com/amaliahsn14)
 
 ## Tech Stacks
 
