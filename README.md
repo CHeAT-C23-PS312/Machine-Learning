@@ -1,7 +1,7 @@
 # Machine Learning
 Machine Learning Service for CHeAT-C23-PS312
 
-##Contributor
+## Contributor
 Contributor to this repostory:
 
 - [Firly Nuraulia Rahmah](https://github.com/firlynuraulia)
